@@ -1,3 +1,9 @@
+# 修改部分
+
+对于请求体返回的是Object对象（即`dataType:JSON`）时，交给 `pjax.success_object` 事件来处理。
+
+以上修改只是对于内部项目方便使用。
+
 # pjax
 
 
